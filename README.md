@@ -12,4 +12,26 @@
    2. 将`指定目录/GameSaves/Username/`里的存档覆盖到本地。
 5. 未来需求：
    1. 开机启动，自动同步存档（类似OneDrive）
-   2. 
+
+
+
+# 笔记
+
+1. 区分user_settings和common settings。
+
+2. Common settings可能包含
+
+   
+
+```mermaid
+classDiagram
+    class Games {
+    
+    }
+```
+
+# 资源
+
+游戏封面：https://gvcover.top/?s=%E5%8F%AA%E7%8B%BC
+
+游戏名匹配：https://www.igdb.com 在这个网站的搜索框输入的时候会有get请求，帮你匹配。这个接口是好调用的。

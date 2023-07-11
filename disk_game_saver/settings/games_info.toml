@@ -1,0 +1,17 @@
+# 注意，id应该全都是唯一的
+[[game]]
+id = 0
+english_name = "english_name"
+chinese_name = "chinese_name"
+other_names = ["name1", "name2"]
+figure = "path_to_fig"
+save_dir = "save_dir"
+
+[[game]]
+id = 2
+english_name = "english_name"
+chinese_name = "chinese_name"
+other_names = ["name1", "name2"]
+figure = "path_to_fig"
+save_dir = "save_dir"
+
